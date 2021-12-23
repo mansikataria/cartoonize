@@ -1,0 +1,17 @@
+all_data.csv
+safebooru/
+safebooru_smoothed/
+safebooru_smoothed.zip
+minion_data/
+minion_data_smoothed/
+minion_data_smoothed.zip
+.idea/
+*.iml
+.DS_STORE
+safebooru.zip
+annotations/
+photos/
+__pycache__/
+coco.zip
+*.pth
+test/
