@@ -1,6 +1,6 @@
-# ComicGAN - my attempt to implement it
+# AnimationGAN 
 
-Within this repo, I try to implement a cartoon GAN \[Chen et al., CVPR18\].
+Within this repo, I try to implement a GAN network which is primarily based on cartoon GAN \[Chen et al., CVPR18\].
 
 I created a github page for detailed documentation, please see https://tobiassunderdiek.github.io/cartoon-gan/ for details.
 
