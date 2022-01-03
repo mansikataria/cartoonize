@@ -26,4 +26,4 @@ cleanupImageData:
 	python3 remove_duplicate_images.py
 
 detectBlur:
-	python3 detect_blur.py --images minion_data --delete true
+	python3 detect_blur.py --images blur_test --delete false
