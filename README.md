@@ -1,4 +1,4 @@
-# AnimationGAN 
+# WhatsYourStyleGAN 
 
 Within this repo, I try to implement a GAN network which is primarily based on cartoon GAN \[Chen et al., CVPR18\].
 
